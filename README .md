@@ -17,7 +17,7 @@ A Power BI dashboard that helps a garment factory manager answer four questions:
 ### 1. Overview
 KPI cards, weekly actual vs target trend, productivity by day of week, and % of team-days meeting target by month.
 
-![Overview](screenshots/01_overview.png)
+![Overview](screenshots/Overview.png)
 
 ### 2. Team Performance
 Productivity gap by team, % of target met by team, a team × department heatmap, and a department comparison.
