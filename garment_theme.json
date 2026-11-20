@@ -1,0 +1,22 @@
+{
+  "name": "Garment Production",
+  "dataColors": [
+    "#1F4E79",
+    "#F28E2B",
+    "#2E8B57",
+    "#C0392B",
+    "#7F8C8D",
+    "#5DADE2",
+    "#F4D03F",
+    "#8E44AD"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#252423",
+  "tableAccent": "#1F4E79",
+  "good": "#2E8B57",
+  "neutral": "#F4D03F",
+  "bad": "#C0392B",
+  "maximum": "#2E8B57",
+  "center": "#F4D03F",
+  "minimum": "#C0392B"
+}
