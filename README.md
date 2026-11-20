@@ -17,22 +17,20 @@ A Power BI dashboard that helps a garment factory manager answer four questions:
 ### 1. Overview
 KPI cards, weekly actual vs target trend, productivity by day of week, and % of team-days meeting target by month.
 
-![Overview](screenshots/Overview.png)
-
+![Overview](Screenshot/01_overview.png)
 ### 2. Team Performance
 Productivity gap by team, % of target met by team, a team × department heatmap, and a department comparison.
 
-![Team Performance](screenshots/02_team_performance.png)
-
+![Team Performance](Screenshot/02_team_performance.png)
 ### 3. Productivity Loss Drivers
 Stoppages and style changes compared fairly (Sewing only), WIP and overtime-per-worker scatter charts with trend lines, and the 10 worst team-days.
 
-![Loss Drivers](screenshots/03_loss_drivers.png)
+![Loss Drivers](Screenshot/03_loss_drivers.png)
 
 ### 4. Key Findings
 A one-page summary of findings and recommendations for management.
 
-![Key Findings](screenshots/04_key_findings.png)
+![Key Findings](Screenshot/04_key_findings.png)
 
 A full PDF export is included: [Garment_Production_Dashboard.pdf](Garment_Production_Dashboard.pdf)
 
